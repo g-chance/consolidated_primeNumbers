@@ -1,3 +1,5 @@
+// My first program!
+
 function primeNumbers(x) {
     var arr = [];
     for(var i = 2;i<=x;i++) {
